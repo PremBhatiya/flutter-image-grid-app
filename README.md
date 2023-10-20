@@ -28,7 +28,9 @@ If this is your first Flutter project, here are some resources to help you get s
 
 ## Screenshots
 
-![Login Screen](https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc1.jpg)
-![Image Grid](https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc2.jpg)
+<img src="https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc1.jpg " width="300">
+<img src="https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/sc2.jpg " width="300">
+
+
 
 
