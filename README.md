@@ -31,6 +31,4 @@ If this is your first Flutter project, here are some resources to help you get s
 ![Login Screen](https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/assets/login_screen.png)
 ![Image Grid](https://github.com/PremBhatiya/flutter-image-grid-app/blob/main/assets/image_grid.png)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
